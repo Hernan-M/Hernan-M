@@ -9,7 +9,7 @@
   <br/> 
   
 
-- 👨‍💻 Estou no 5º período de **Ciência da Computação no IFMA.**  
+- 👨‍💻 Estou no 7º período de **Ciência da Computação no IFMA.**  
   
 
 - 🤓 Passo meu tempo estudando **React, React Native e NodeJS.**  
