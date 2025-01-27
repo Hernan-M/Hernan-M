@@ -4,7 +4,7 @@
   
   <br/> 
 
-### <div align="center">Olá :) Meu nome é Hernan, um Front-End dev que um dia pretende mudar o mundo! (para melhor, claro)</div> 
+### <div align="center">Olá :) Meu nome é Hernan, um dev que um dia pretende mudar o mundo! (para melhor, claro)</div> 
 
   <br/> 
   
@@ -12,7 +12,7 @@
 - 👨‍💻 Estou no 7º período de **Ciência da Computação no IFMA.**  
   
 
-- 🤓 Passo meu tempo estudando **React, React Native e NodeJS.**  
+- 🤓 Passo meu tempo estudando **React, Python, React Native e NodeJS.**  
   
 
 - 😁 Fun fact: Já toquei em shows com bandas enquanto adolescente, e isso quase me fez seguir um caminho beeeeeem diferente da programação. 
